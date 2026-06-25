@@ -1,0 +1,4 @@
+https://www.python.org
+https://github.com
+https://stackoverflow.com
+https://openai.com
